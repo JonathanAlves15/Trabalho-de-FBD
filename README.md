@@ -1,5 +1,3 @@
 Trabalho de Fundamentos de Banco de Dados
 
-Integrantes:
-Felipe - 555371
-Jonathan - 554143
+Integrantes: Felipe - 555371 e Jonathan - 554143
